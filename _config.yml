@@ -1,0 +1,24 @@
+# ---------------------- #
+# site config            #
+# ---------------------- #
+name: Perry Yeh
+baseurl:
+url: https://www.sinosub.,com
+keywords: sinosub
+description: .
+
+# ---------------------- #
+# jekyll                 #
+# ---------------------- #
+safe: true
+auto: true
+rouge: true
+markdown: kramdown
+timezone: America/Los_Angeles
+
+# ---------------------- #
+# deployment             #
+# ---------------------- #
+deploy:
+repository:
+branch:
