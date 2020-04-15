@@ -22,3 +22,5 @@ timezone: America/Los_Angeles
 deploy:
 repository:
 branch:
+
+theme: jekyll-theme-cayman
